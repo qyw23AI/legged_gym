@@ -3,7 +3,7 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
-legged_gym/legged_gym/envs/base/legged_robot_config.py
+legged_gym/envs/base/legged_robot_config.py
 
 # Node artifact files
 node_modules/
@@ -53,9 +53,10 @@ Thumbs.db
 # VS Code
 .vscode
 # logs
-logs
+
 runs
 
 # other
 *.egg-info
 __pycache__
+
